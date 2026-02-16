@@ -82,5 +82,5 @@ core/
     └── test.py  # 基础功能测试用例
 ```
 ## 许可声明
-zengui 基于 PySide6 开发，PySide6 遵循 LGPLv3 开源协议（https://www.gnu.org/licenses/lgpl-3.0.html）。
+zengui 基于 PySide6 开发，PySide6 遵循 LGPLv3 开源协议(https://www.gnu.org/licenses/lgpl-3.0.html)
 zengui 仅封装 PySide6 的公开 API，未修改 PySide6 源码；使用 zengui 需遵守 PySide6 的 LGPLv3 协议要求。
